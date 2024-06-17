@@ -3,3 +3,4 @@ JTVAE-CD filter=lfs diff=lfs merge=lfs -text
 AAE-CD filter=lfs diff=lfs merge=lfs -text
 FragVAE-CD filter=lfs diff=lfs merge=lfs -text
 AAE_DEL filter=lfs diff=lfs merge=lfs -text
+DEL_Counter_Docking filter=lfs diff=lfs merge=lfs -text
