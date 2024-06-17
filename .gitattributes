@@ -1,0 +1,4 @@
+DEL_Without_Docking filter=lfs diff=lfs merge=lfs -text
+JTVAE-CD filter=lfs diff=lfs merge=lfs -text
+AAE-CD filter=lfs diff=lfs merge=lfs -text
+FragVAE-CD filter=lfs diff=lfs merge=lfs -text
