@@ -6,3 +6,4 @@ AAE_DEL filter=lfs diff=lfs merge=lfs -text
 DEL_Counter_Docking filter=lfs diff=lfs merge=lfs -text
 FragVAE_DEL filter=lfs diff=lfs merge=lfs -text
 JTVAE_DEL filter=lfs diff=lfs merge=lfs -text
+FragVAE_DEL/triple_targets filter=lfs diff=lfs merge=lfs -text
